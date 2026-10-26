@@ -1,0 +1,22 @@
+{
+    "readme_addons": {
+        "Connector": {},
+        "Integration": {},
+        "Job": {},
+        "Mappings": {},
+        "Playbook": {
+            "CrowdStrike Containment": "readme addon playbook test",
+            "CrowdStrike Falcon Starting Playbook": "readme addon playbook test",
+            "GTI Enrichment": "readme addon playbook test",
+            "Google SecOps Enrichment": "readme addon playbook test",
+            "Google Workspace Enrichment": "readme addon playbook test",
+            "High Risk Users Check": "readme addon playbook test",
+            "New Playbook": "readme addon playbook test"
+        },
+        "Visual Family": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    },
+    "system_version": "6.1.6.186"
+}
