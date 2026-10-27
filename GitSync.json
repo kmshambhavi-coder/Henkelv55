@@ -17,6 +17,7 @@
             "Google SecOps Enrichment": "readme addon playbook test",
             "Google Workspace Enrichment": "readme addon playbook test",
             "High Risk Users Check": "readme addon playbook test",
+            "New Block": "readme addon playbook test",
             "New Playbook": "readme addon playbook test"
         },
         "Visual Family": {
