@@ -4,7 +4,9 @@
             "Google Chronicle - Chronicle Alerts Connector": "test connectors"
         },
         "Integration": {},
-        "Job": {},
+        "Job": {
+            "Google Chronicle Sync Job": "test Job Readme"
+        },
         "Mappings": {},
         "Playbook": {
             "CrowdStrike Containment": "readme addon playbook test",

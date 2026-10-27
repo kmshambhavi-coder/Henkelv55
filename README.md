@@ -24,3 +24,9 @@
 |New Block|An embedded workflow that can receive inputs and return an output.|
 |New Playbook|Updated only playbook description|
 
+
+## Jobs
+|Name|Description|
+|----|-----------|
+|Google Chronicle Sync Job|This job will synchronize information about Chronicle SOAR Cases and Chronicle SOAR Alerts with Chronicle SIEM. Note: This job is only supported from Chronicle SOAR version 6.1.44 and higher.|
+
