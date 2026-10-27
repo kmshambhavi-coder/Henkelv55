@@ -7,7 +7,9 @@
         "Job": {
             "Google Chronicle Sync Job": "test Job Readme"
         },
-        "Mappings": {},
+        "Mappings": {
+            "CrowdStrikeFalcon": "test mappings addon"
+        },
         "Playbook": {
             "CrowdStrike Containment": "readme addon playbook test",
             "CrowdStrike Falcon Starting Playbook": "readme addon playbook test",
