@@ -19,7 +19,9 @@
             "High Risk Users Check": "readme addon playbook test",
             "New Playbook": "readme addon playbook test"
         },
-        "Visual Family": {}
+        "Visual Family": {
+            "manual_vf001": "test visual family"
+        }
     },
     "settings": {
         "update_root_readme": true
