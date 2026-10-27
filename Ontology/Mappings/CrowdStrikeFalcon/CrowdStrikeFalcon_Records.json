@@ -1,0 +1,68 @@
+[
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "Falcon",
+        "source": "CrowdStrikeFalcon"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "CrowdStrike Falcon",
+        "source": "CrowdStrikeFalcon"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "Identity Protection",
+        "source": "CrowdStrikeFalcon"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "Behavior",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "Incidents",
+        "source": "CrowdStrikeFalcon"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "Incident Data",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "Incidents",
+        "source": "CrowdStrikeFalcon"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "Alerts",
+        "source": "CrowdStrikeFalcon"
+    }
+]

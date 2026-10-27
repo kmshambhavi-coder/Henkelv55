@@ -1,0 +1,62 @@
+[
+    {
+        "aliases": [],
+        "allowedActions": null,
+        "base64Image": null,
+        "contactEmails": "",
+        "contactEmailsList": null,
+        "contactName": null,
+        "contactPhone": null,
+        "dataAccessScopes": [],
+        "description": "Default Environment",
+        "dynamicParameters": [
+            {
+                "dynamicParameterId": 1,
+                "environmentId": 1,
+                "value": "DP001 _ alpha"
+            }
+        ],
+        "environmentAllowedForAllUsers": false,
+        "forDBMigration": false,
+        "id": 0,
+        "instanceUrl": null,
+        "isSystem": true,
+        "name": "Default Environment",
+        "properties": {},
+        "remediationDurationInDays": 0,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false
+    },
+    {
+        "aliases": [],
+        "allowedActions": null,
+        "base64Image": "",
+        "contactEmails": "manual@domain.com",
+        "contactEmailsList": null,
+        "contactName": "Manual_ENV",
+        "contactPhone": "1234567890",
+        "dataAccessScopes": [],
+        "description": "Manual_ENV",
+        "dynamicParameters": [
+            {
+                "dynamicParameterId": 1,
+                "environmentId": 2,
+                "value": "DP001 _ alpha"
+            }
+        ],
+        "environmentAllowedForAllUsers": false,
+        "forDBMigration": false,
+        "id": 0,
+        "instanceUrl": "",
+        "isSystem": false,
+        "name": "Manual_ENV",
+        "properties": {},
+        "remediationDurationInDays": 0,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false
+    }
+]

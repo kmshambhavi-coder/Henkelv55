@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "alertMetadata": {},
+            "alertUpdateSupported": false,
+            "attachments": null,
+            "creatorUserId": null,
+            "dataAccessScope": null,
+            "dataType": 1,
+            "description": null,
+            "deviceProduct": "manualcase",
+            "deviceVendor": "manualcase",
+            "displayId": null,
+            "endTime": 1793090555973,
+            "environment": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "deviceEventClassId": "manualcase",
+                        "deviceProduct": "manualcase",
+                        "endTime": "1793090555973",
+                        "parentEventId": 0,
+                        "startTime": "1793090555973"
+                    },
+                    "_rawDataFields": {
+                        "deviceEventClassId": "manualcase",
+                        "deviceProduct": "manualcase",
+                        "manualcase": "manualcase",
+                        "name": "manualcase"
+                    },
+                    "environment": null,
+                    "extensions": [],
+                    "sourceSystemName": null
+                }
+            ],
+            "extensions": [
+                {
+                    "key": "manualcase",
+                    "value": "manualcase"
+                }
+            ],
+            "isTrimmed": false,
+            "name": "manualcase",
+            "playbookTriggerKeywords": [],
+            "priority": -1,
+            "reason": null,
+            "ruleGenerator": "manualcase",
+            "siemAlertId": null,
+            "sourceGroupingIdentifier": null,
+            "sourceRuleIdentifier": null,
+            "sourceSystemName": "manualcase",
+            "sourceSystemUrl": null,
+            "sourceType": 1,
+            "startTime": 1793090555973,
+            "ticketId": null,
+            "type": 0,
+            "updatedFields": []
+        }
+    ],
+    "connectorIdentifier": null,
+    "debugOutput": null,
+    "type": 0
+}

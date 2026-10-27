@@ -1,0 +1,18 @@
+[
+    {
+        "alertType": 0,
+        "criticalPeriod": 2.0,
+        "criticalPeriodType": 0,
+        "environments": [
+            "Default Environment"
+        ],
+        "id": 1,
+        "slaPeriod": 10.0,
+        "slaPeriodType": 0,
+        "value": "",
+        "valueType": 2,
+        "values": [
+            ""
+        ]
+    }
+]
