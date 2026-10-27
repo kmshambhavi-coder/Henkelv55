@@ -1,6 +1,8 @@
 {
     "readme_addons": {
-        "Connector": {},
+        "Connector": {
+            "Google Chronicle - Chronicle Alerts Connector": "test connectors"
+        },
         "Integration": {},
         "Job": {},
         "Mappings": {},
