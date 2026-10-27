@@ -16,5 +16,5 @@
 |Google Workspace Enrichment|This block enriches user entities with relevant information from Google Workspace, providing additional context to support investigation and response activities.|
 |High Risk Users Check|This block checks Google GTI sourced alerts against a SOAR custom list to find matches of targeted Industries.|
 |New Block|An embedded workflow that can receive inputs and return an output.|
-|New Playbook||
+|New Playbook|Updated only playbook description|
 
