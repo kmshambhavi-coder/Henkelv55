@@ -1,0 +1,71 @@
+{
+    "cases": [
+        {
+            "alertMetadata": {},
+            "alertUpdateSupported": false,
+            "attachments": null,
+            "creatorUserId": null,
+            "dataAccessScope": null,
+            "dataType": 1,
+            "description": "Out of working hours",
+            "deviceProduct": "Windows:OutOfWorkingHours",
+            "deviceVendor": "Windows",
+            "displayId": "5e558ec5-ac17-4dd0-9b7b-22334422",
+            "endTime": 1522058625000,
+            "environment": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": "[]",
+                        "deviceEventClassId": "Out of working hours",
+                        "deviceProduct": "Windows:OutOfWorkingHours",
+                        "parentEventId": -1
+                    },
+                    "_rawDataFields": {
+                        "applicationProtocol": "TCP",
+                        "categoryOutcome": "Allowed",
+                        "destinationPort": "633",
+                        "deviceEventClassId": "Out of working hours",
+                        "deviceProduct": "Windows:OutOfWorkingHours",
+                        "deviceVendor": "Windows",
+                        "endTime": "1522058637000",
+                        "eventId": "f821e19b-be60-4322-b978-b5815c27816e",
+                        "field_29": "6wIxCl",
+                        "managerReceiptTime": "1522058625000",
+                        "message": "Out of working hours",
+                        "name": "Out of working hours",
+                        "severity": "9",
+                        "sourceAddress": "192.0.0.44",
+                        "sourceHostName": "garry-ws@siemplify.local",
+                        "sourceUserName": "ITAIS@siemplify",
+                        "sourcetype": "Out Of Working Hours",
+                        "startTime": "1522058637000"
+                    },
+                    "environment": null,
+                    "extensions": [],
+                    "sourceSystemName": null
+                }
+            ],
+            "extensions": [],
+            "isTrimmed": false,
+            "name": "Out of working hours",
+            "playbookTriggerKeywords": [],
+            "priority": -1,
+            "reason": null,
+            "ruleGenerator": "Out of working hours",
+            "siemAlertId": null,
+            "sourceGroupingIdentifier": null,
+            "sourceRuleIdentifier": null,
+            "sourceSystemName": "Arcsight",
+            "sourceSystemUrl": null,
+            "sourceType": 1,
+            "startTime": 1522058625000,
+            "ticketId": "5e558ec5-ac17-4dd0-9b7b-22334422",
+            "type": 0,
+            "updatedFields": []
+        }
+    ],
+    "connectorIdentifier": null,
+    "debugOutput": null,
+    "type": 0
+}

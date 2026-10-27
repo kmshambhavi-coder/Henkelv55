@@ -1,0 +1,70 @@
+{
+    "cases": [
+        {
+            "alertMetadata": {},
+            "alertUpdateSupported": false,
+            "attachments": null,
+            "creatorUserId": null,
+            "dataAccessScope": null,
+            "dataType": 1,
+            "description": "The email from <f.attacker4@gmail.com> to <vickie.b@siemplify.co> detected as phishing email.",
+            "deviceProduct": "Phishing email detector",
+            "deviceVendor": "Email server",
+            "displayId": "125fc5df-31d0-4018-a1d0-d13dc0def50b",
+            "endTime": 1522059431000,
+            "environment": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": "[]",
+                        "deviceEventClassId": "Email check",
+                        "deviceProduct": "Phishing email detector",
+                        "parentEventId": -1
+                    },
+                    "_rawDataFields": {
+                        "body": "Hello, You have an important email from the Human Resources Department with regards to your December 2015 Paycheck\r\n\r\nThis email is enclosed in the Marquette University secure network, hence access it below\r\n\r\nAccess the documents here <http://markossolomon.com/F1q7QX.php<link removed>\r\n\r\n***Ensure your login credentials are correct to avoid cancellations**\r\n\r\nFaithfully \r\nHuman Resources \r\nUniversity of California, Berkeley\r\n\r",
+                        "categoryOutcome": "allowed",
+                        "destinationURL": "http://markossolomon.com/F1q7QX.php",
+                        "destinationUserName": "vickie.b@siemplify.co",
+                        "deviceEventClassId": "Email check",
+                        "deviceVendor": "Email server",
+                        "endTime": "1522059431000",
+                        "eventId": "220",
+                        "mail_OriginalEmailBody": "Hello, You have an important email from the Human Resources Department with regards to your December 2015 Paycheck\r\n\r\nThis email is enclosed in the Marquette University secure network, hence access it below\r\n\r\nAccess the documents here <http://markossolomon.com/F1q7QX.php<link removed>\r\n\r\n***Ensure your login credentials are correct to avoid cancellations**\r\n\r\nFaithfully \r\nHuman Resources \r\nUniversity of California, Berkeley\r\n\r",
+                        "message_id": "220",
+                        "name": "Your New Salary Notification",
+                        "sentTime": "1522059431000",
+                        "severity": "High",
+                        "sourceUserName": "f.attacker4@gmail.com",
+                        "sourcetype": "Phishing email detector",
+                        "startTime": "1522059431000",
+                        "subject": "Your New Salary Notification"
+                    },
+                    "environment": null,
+                    "extensions": [],
+                    "sourceSystemName": null
+                }
+            ],
+            "extensions": [],
+            "isTrimmed": false,
+            "name": "Suspicious phishing email",
+            "playbookTriggerKeywords": [],
+            "priority": 60,
+            "reason": "Phishing email detector",
+            "ruleGenerator": "Phishing email detector",
+            "siemAlertId": null,
+            "sourceGroupingIdentifier": null,
+            "sourceRuleIdentifier": null,
+            "sourceSystemName": "Arcsight",
+            "sourceSystemUrl": null,
+            "sourceType": 1,
+            "startTime": 1522059431000,
+            "ticketId": "220",
+            "type": 0,
+            "updatedFields": []
+        }
+    ],
+    "connectorIdentifier": null,
+    "debugOutput": null,
+    "type": 0
+}

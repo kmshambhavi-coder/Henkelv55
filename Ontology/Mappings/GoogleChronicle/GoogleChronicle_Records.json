@@ -1,0 +1,123 @@
+[
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": null,
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "EMAIL_TRANSACTION",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": null,
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "IOC",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "EXTERNAL",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "EMAIL_TRANSACTION",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "EXTERNAL",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "RULE",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "EMAIL_TRANSACTION",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "RULE",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "SCCE",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": null,
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "RISK_SCORE_RULE",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "ASSET",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "RISK_SCORE_RULE",
+        "source": "GoogleChronicle"
+    },
+    {
+        "changeSource": 0,
+        "eventName": "DOMAIN_NAME",
+        "exampleEventFields": [],
+        "familyId": 0,
+        "familyName": "Default",
+        "id": 0,
+        "mappingStatus": null,
+        "product": "RISK_SCORE_RULE",
+        "source": "GoogleChronicle"
+    }
+]

@@ -1,0 +1,74 @@
+{
+    "cases": [
+        {
+            "alertMetadata": {},
+            "alertUpdateSupported": false,
+            "attachments": null,
+            "creatorUserId": null,
+            "dataAccessScope": null,
+            "dataType": 1,
+            "description": "Access Disabled Accounts",
+            "deviceProduct": "Windows:AccessDisabledAccounts",
+            "deviceVendor": "Microsoft",
+            "displayId": "5e558ec5-ac17-4dd0-9b7b-22334422",
+            "endTime": 1522058625000,
+            "environment": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": "[]",
+                        "deviceEventClassId": "Access Disabled Accounts",
+                        "deviceProduct": "Windows:AccessDisabledAccounts",
+                        "parentEventId": -1
+                    },
+                    "_rawDataFields": {
+                        "applicationProtocol": "TCP",
+                        "categoryOutcome": "Allowed",
+                        "destinationNtDomain": "",
+                        "destinationPort": "633",
+                        "deviceAddress": "192.0.0.44",
+                        "deviceEventClassId": "Access Disabled Accounts",
+                        "deviceHostName": "N0c0d",
+                        "deviceProduct": "Windows:AccessDisabledAccounts",
+                        "deviceVendor": "Windows",
+                        "endTime": "1522058625000",
+                        "eventId": "f821e19b-be60-4322-b978-b5815c27816e",
+                        "field_29": "6wIxCl",
+                        "managerReceiptTime": "1522058625000",
+                        "message": "Access Disabled Accounts",
+                        "name": "Access Disabled Accounts",
+                        "severity": "9",
+                        "sourceAddress": "10.0.0.87",
+                        "sourceHostName": "main-server@siemplify.local",
+                        "sourceUserName": "rafi@siemplify",
+                        "sourcetype": "Access Disabled Accounts",
+                        "startTime": "1522058625000"
+                    },
+                    "environment": null,
+                    "extensions": [],
+                    "sourceSystemName": null
+                }
+            ],
+            "extensions": [],
+            "isTrimmed": false,
+            "name": "Access Disabled Accounts",
+            "playbookTriggerKeywords": [],
+            "priority": -1,
+            "reason": null,
+            "ruleGenerator": "Access Disabled Accounts",
+            "siemAlertId": null,
+            "sourceGroupingIdentifier": null,
+            "sourceRuleIdentifier": null,
+            "sourceSystemName": "Microsoft CASB",
+            "sourceSystemUrl": null,
+            "sourceType": 1,
+            "startTime": 1522058625000,
+            "ticketId": "5e558ec5-ac17-4dd0-9b7b-22334422",
+            "type": 0,
+            "updatedFields": []
+        }
+    ],
+    "connectorIdentifier": null,
+    "debugOutput": null,
+    "type": 0
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "compareType": 2,
+        "creationTimeUnixTimeInMs": 1793090958234,
+        "environments": [],
+        "id": 3,
+        "isPotentialCaseName": false,
+        "modificationTimeUnixTimeInMs": 1793090958234,
+        "name": "manual_tag",
+        "priority": 1,
+        "propertyName": "Entity.Alert_Id",
+        "type": 3,
+        "value": "Data Exfiltration"
+    }
+]
